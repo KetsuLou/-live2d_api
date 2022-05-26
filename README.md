@@ -1,6 +1,6 @@
 # Live2D API
 
-API：https://live2d.jacklou.cn/
+API：https://live2dapi.jacklou.cn/
 
 Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 
